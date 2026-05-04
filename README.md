@@ -47,7 +47,7 @@ Open using Power BI Desktop
 Use filters (Gender, City, etc.) to explore insights
 
 📸 Dashboard Preview
-![Retail Dashboard](images/retail-dashboard.png)
+![Retail Dashboard](https://github.com/Rachaneni-MadhuSekhar/RETAIL-SALES-DASHBOARD/blob/d60538e3a8243c8fed95b7ab0c1b13a5948ed1a7/Screenshot%202026-05-04%20111605.png)
 
 🎯 Use Cases
 Data Analyst Portfolio Project
